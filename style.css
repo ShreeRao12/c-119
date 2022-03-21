@@ -1,0 +1,45 @@
+body
+{
+background-image: linear-gradient(#34e1eb 0%, #e63045 100%);
+
+}
+h1
+{
+font-family: 'Quintessential', cursive;
+background-color: gainsboro;
+padding-left: 70px;
+
+}
+#show_sketch
+{
+font-family: 'Quintessential', cursive;
+float: right;
+margin-right: 20px;
+}
+canvas
+{
+border: 1px solid grey;
+border-radius: 20px;
+margin-top: 50px;
+}
+#score
+{
+font-size: medium;
+float: left;
+margin-left: 40px;
+}
+#timer
+{
+    font-size: medium;
+    float: right;
+    margin-right: 40px;
+}
+#sketch_suggestion
+{
+    font-size: 30px;
+    font-weight: 100;
+}
+canvas
+{
+background-color: white;
+}
